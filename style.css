@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff8e7;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: #8b4513;
+    margin-top: 40px;
+}
+
+h2 {
+    color: #b5651d;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+form {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 400px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+input,
+textarea {
+    width: 90%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #8b4513;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
